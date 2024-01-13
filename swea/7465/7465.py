@@ -1,4 +1,4 @@
-# swea 7465.py
+# swea 7465 Python
 
 from collections import deque
 

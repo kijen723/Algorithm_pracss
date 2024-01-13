@@ -1,4 +1,4 @@
-// swea 1234.java
+// swea 1234 Java
 
 import java.util.Scanner;
 

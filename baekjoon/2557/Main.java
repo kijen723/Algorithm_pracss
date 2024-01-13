@@ -1,4 +1,4 @@
-// baekjoon 2557.java
+// baekjoon 2557 Java
 
 public class Main {
     public static void main(String[] args) {

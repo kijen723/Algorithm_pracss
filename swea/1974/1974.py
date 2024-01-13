@@ -1,4 +1,4 @@
-# swea 1974.py
+# swea 1974 Python
 
 T = int(input())
 

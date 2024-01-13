@@ -1,4 +1,4 @@
-# swea 1936.py
+# swea 1936 Python
 
 A, B = map(int, input().split())
 

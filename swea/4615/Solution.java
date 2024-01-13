@@ -1,4 +1,4 @@
-// swea 4615.java
+// swea 4615 Java
 
 import java.util.Scanner;
 
