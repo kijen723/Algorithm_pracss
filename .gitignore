@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-../../../새 폴더/.idea
+.idea
 *.iml
 out/
 !**/src/main/**/out/
